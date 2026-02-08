@@ -1,7 +1,7 @@
 {
   "windows": {
     "latest_version": "1.1.5",
-    "download_url": "https://github.com/jia070310/lemonIPTV-windows/releases/download/v1.1.5/LemonTV-v1.1.5-win.exe",
+    "download_url": "https://github.com/jia070310/lemonIPTV-windows/releases/download/V1.1.5/LemonTV-v1.1.5-win.exe",
     "update_log": [
       "🪟 Windows端更新",
       "✨ 新增自动更新功能",
