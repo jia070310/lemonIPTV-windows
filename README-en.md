@@ -1,4 +1,4 @@
-![logo](https://fastly.jsdelivr.net/gh/aiyakuaile/images/tv-flow.png)
+
 
 [![English](https://img.shields.io/badge/Language-English-blueviolet?style=for-the-badge)](README-en.md)
 [![简体中文](https://img.shields.io/badge/语言-简体中文-blueviolet?style=for-the-badge)](README.md)
@@ -32,7 +32,7 @@ EasyTV is a lightweight IPTV player that supports all platforms and Android TV l
 - OK key: Confirm operation, display channel list
 
 ### NOT TV Version Interaction
-![image_4](https://raw.githubusercontent.com/aiyakuaile/easy_tv_live/main/img_4.png)
+
 
 #### Remote Configuration Feature
 Fields that support remote configuration can be set on the [柠檬TV远程配置项](https://aiyakuaile.github.io/tv-setting) page.
@@ -98,7 +98,7 @@ The fonts that support switching need to use the [easy_tv_font](https://github.c
 ## Sponsorship
 
 For easier tracking of sponsors, we recommend using WeChat Scan to make a direct donation. Thank
-<img src="https://fastly.jsdelivr.net/gh/aiyakuaile/images/appreciate.png" alt="微信赞赏" width="300">
+
 
 ## 贡献
 
