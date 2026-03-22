@@ -2,8 +2,6 @@
 
 基于 Flutter 的 Windows IPTV 直播客户端，支持 M3U / TXT 订阅、EPG、自定义 User-Agent 等。本仓库为 **Windows 桌面端源码**；发布包与版本信息见 [Releases](https://github.com/jia070310/lemonIPTV-windows/releases)。
 
-[![English](https://img.shields.io/badge/Language-English-blueviolet?style=for-the-badge)](README-en.md)
-
 ## 功能概览（Windows）
 
 - **双播放内核**：默认 **mpv（media_kit）**，可选 **VLC（dart_vlc）**；在 **设置 → 播放器设置** 中手动切换。
@@ -17,7 +15,7 @@
 ## 环境要求
 
 - Windows 10/11 x64
-- [Flutter](https://docs.flutter.dev/get-started/install/windows)（SDK 与 `pubspec.yaml` 中 `environment.sdk` 一致，当前为 **^3.8.1**）
+- [Flutter 中文文档 · Windows 安装](https://flutter.cn/docs/get-started/install/windows)（SDK 与 `pubspec.yaml` 中 `environment.sdk` 一致，当前为 **^3.8.1**）
 - 已安装 **Visual Studio** 并勾选 **使用 C++ 的桌面开发**（含 MSVC、Windows SDK），用于编译 Windows 与原生插件
 
 ## 克隆与依赖
@@ -71,4 +69,4 @@ flutter build windows --release --build-name=1.1.5 --build-number=10105
 
 ## 许可与致谢
 
-若上游有单独许可证文件，以仓库内 **LICENSE** 为准。感谢 [media-kit](https://github.com/media-kit/media-kit)、[dart_vlc](https://pub.dev/packages/dart_vlc) 等开源项目。
+若上游有单独许可证文件，以仓库内 **LICENSE** 为准。感谢 [media-kit](https://github.com/media-kit/media-kit)、[dart_vlc](https://pub.flutter-io.cn/packages/dart_vlc) 等开源项目。
