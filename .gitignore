@@ -1,0 +1,44 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+**/doc/api/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / misc
+*.log
+*.swp
+*.class
+*.backup
+
+# Android (若存在)
+**/android/**/local.properties
+**/android/**/.gradle/
+**/android/**/captures/
+
+# iOS (若存在)
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+
+# Symbolication / obfuscation
+app.*.symbols
+app.*.map.json
+
+# 安装包产物（体积大，由本地构建或 Release 附件提供；避免被占用导致无法加入索引）
+installer/*.exe
